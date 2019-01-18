@@ -1,0 +1,18 @@
+﻿生成启动时间为 2018/7/1 14:18:22。
+     1>项目“d:\Documents\Visual Studio 2013\Projects\栈\栈\栈.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "测试.cpp"
+         测试.cpp
+     1>d:\documents\visual studio 2013\projects\栈\栈\表达式求值.h(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\栈\栈\表达式求值.h(41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\栈\栈\表达式求值.h(70): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\documents\visual studio 2013\projects\栈\栈\表达式求值.h(19): warning C4715: “getPriority”: 不是所有的控件路径都返回值
+     1>d:\documents\visual studio 2013\projects\栈\栈\表达式求值.h(45): warning C4715: “caculate”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Documents\Visual Studio 2013\Projects\栈\Debug\栈.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"d:\Documents\Visual Studio 2013\Projects\栈\Debug\栈.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Documents\Visual Studio 2013\Projects\栈\Debug\栈.lib" /MACHINE:X86 "Debug\测试.obj"
+         栈.vcxproj -> d:\Documents\Visual Studio 2013\Projects\栈\Debug\栈.exe
+     1>已完成生成项目“d:\Documents\Visual Studio 2013\Projects\栈\栈\栈.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.76
